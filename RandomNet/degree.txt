@@ -1,0 +1,39 @@
+Num = 5000
+
+Layer 0 dimensions:
+Channel 0 dimensions: 0.8467667468381084
+Layer 1 dimensions:
+Channel 0 dimensions: 1.5108608867773857e-05
+Channel 1 dimensions: 6.8267123179597645e-06
+Channel 2 dimensions: 1.3580869406244255e-05
+Layer 2 dimensions:
+Channel 0 dimensions: 6.21404105048892e-07
+Channel 1 dimensions: 7.590541380509382e-07
+Channel 2 dimensions: 1.3623355503008884e-05
+
+N = 6000
+CPU run time: 4.0 h 25.0 min 27.939637184143066 seconds
+Layer 0 dimensions:
+Channel 0 dimensions: 0.8691127656285117
+Layer 1 dimensions:
+Channel 0 dimensions: 1.1658486504133675e-06
+Channel 1 dimensions: 4.0566565641002074e-06
+Channel 2 dimensions: 1.8801113805685256e-07
+Layer 2 dimensions:
+Channel 0 dimensions: 3.060282718759126e-06
+Channel 1 dimensions: 1.0920418376342493e-06
+Channel 2 dimensions: 3.666531866016629e-07
+
+N = 7000
+CPU run time: 5.0 h 26.0 min 22.564765691757202 seconds
+Layer 0 dimensions:
+Channel 0 dimensions: 0.8856160962533168
+Layer 1 dimensions:
+Channel 0 dimensions: 1.1300489402718868e-05
+Channel 1 dimensions: 4.412977114527825e-06
+Channel 2 dimensions: 7.60483244943795e-07
+Layer 2 dimensions:
+Channel 0 dimensions: 3.151883224762821e-07
+Channel 1 dimensions: 1.4786302545270673e-06
+Channel 2 dimensions: 6.147378716082949e-06
+
